@@ -1,17 +1,20 @@
-# rolling_Dice
+# Dice Roll
 
-This is just a simple tutorial purpose app
+## Some snippets of the app :
+![Dice app image 1](/assets/images/dice-1.png)
+<br />
 
-**NOTE**
-its better to mention full path in Image asset like:   
+---
 
-AssetImage('assets/images/dice-png-$rightDiceNumber.png')
+![Dice app image 2](/assets/images/dice-2.png)
+<br />
 
-otherwise if you metion like:  
+---
 
-AssetImage('images/dice-png-$rightDiceNumber.png')
+![Dice app image 3](/assets/images/dice-3.png)
+<br />
 
-then this will work fine on browser but will cause error in emulator.
+---
 
 ## Getting Started
 
